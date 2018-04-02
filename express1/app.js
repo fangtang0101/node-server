@@ -13,3 +13,6 @@ var server = app.listen(3000, function () {
   console.log('Example app listening at http://%s:%s', host, port);
   open("http://localhost:3000","chrome");
 });
+
+// tips:
+// http://www.expressjs.com.cn/starter/hello-world.html
