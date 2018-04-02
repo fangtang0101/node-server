@@ -1,0 +1,17 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "node server about express and mongodb\r #declare\r > a project about node server (express and mongodb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "open": "^0.0.5"
+  }
+}
