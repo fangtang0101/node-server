@@ -10,3 +10,4 @@ selenium-debug.log
 /.idea/
 /.cache-loader/
 /.tags
+/express1/node_modules/
